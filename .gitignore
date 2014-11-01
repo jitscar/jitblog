@@ -1,0 +1,18 @@
+﻿*.class
+
+# Package Files #
+*.jar
+*.ear
+
+# Project Files #
+*.ipr
+*.iws
+*.iml
+
+# Directory #
+.idea/
+out/
+
+# Gradle #
+.gradle
+build/
